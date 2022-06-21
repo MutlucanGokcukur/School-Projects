@@ -1,0 +1,14 @@
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.exe
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.deps.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.dev.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.AssemblyReference.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfoInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfo.cs
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.genruntimeconfig.cache
