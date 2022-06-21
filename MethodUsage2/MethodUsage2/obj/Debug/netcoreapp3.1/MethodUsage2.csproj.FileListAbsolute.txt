@@ -1,0 +1,14 @@
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.exe
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.deps.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.runtimeconfig.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.runtimeconfig.dev.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\bin\Debug\netcoreapp3.1\MethodUsage2.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.csproj.AssemblyReference.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.AssemblyInfoInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.AssemblyInfo.cs
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.csproj.CoreCompileInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\MethodUsage2\MethodUsage2\obj\Debug\netcoreapp3.1\MethodUsage2.genruntimeconfig.cache
