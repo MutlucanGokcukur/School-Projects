@@ -1,2 +1,0 @@
-# School-Projects
-C#
