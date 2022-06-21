@@ -1,0 +1,14 @@
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.exe
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.deps.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.runtimeconfig.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.runtimeconfig.dev.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\bin\Debug\netcoreapp3.1\Encapsulation2.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.csproj.AssemblyReference.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.AssemblyInfoInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.AssemblyInfo.cs
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.csproj.CoreCompileInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Encapsulation2\Encapsulation2\obj\Debug\netcoreapp3.1\Encapsulation2.genruntimeconfig.cache
