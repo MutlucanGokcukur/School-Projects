@@ -1,0 +1,14 @@
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.exe
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.deps.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.runtimeconfig.dev.json
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\bin\Debug\netcoreapp3.1\Inheritance1.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.csproj.AssemblyReference.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfoInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.AssemblyInfo.cs
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.dll
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.pdb
+C:\Users\Mutlu\Desktop\Dosyalar\Projeler\GitHub Projeleri\Inheritance1\Inheritance1\obj\Debug\netcoreapp3.1\Inheritance1.genruntimeconfig.cache
